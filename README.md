@@ -183,10 +183,11 @@ All work for this class will be lab, project, and presentation-based, and there 
 
 **Readings due today:**
 - TBD
+- ["Missing Datasets"](https://github.com/MimiOnuoha/missing-datasets) and ["The Point of Collection"](https://medium.com/datasociety-points/the-point-of-collection-8ee44ad7c2fa) Mimi Onuoha
 
 ---
 
-**Week 13: Nov. 26** \
+**Week 13: Dec. 3** \
 *Visualizing Machine Learning*
 
 **Readings due today:**
@@ -195,16 +196,6 @@ All work for this class will be lab, project, and presentation-based, and there 
 
 ---
 
-**Week 14: Dec. 3** \
-*Data Collection and Missing Data*
-
-**Readings due today:**
-- read intro + skim through: [beautifulsoup documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-- read intro (README) + skim through: [missingno documentation](https://github.com/ResidentMario/missingno)
-- ["Missing Datasets"](https://github.com/MimiOnuoha/missing-datasets) and ["The Point of Collection"](https://medium.com/datasociety-points/the-point-of-collection-8ee44ad7c2fa) Mimi Onuoha
-
-
----
 **Week 15: Dec. 10** \
 *Final Presentations & Reflections*
 
@@ -254,8 +245,8 @@ It is crucial that we build a space where everyone can learn. This class will be
 ## evaluation:
 
 Grading breakdown:
-- Participation/Attendance (including in-class lab work): 20%
-- Weekly Async Posts + Lightning Talks: 15%
+- Participation/Attendance (including in-class lab work): 15%
+- Weekly Async Posts + Lightning Talks: 20%
 - Project 1 + Project 2: 40%
 - Project 3 + Final Reflection: 25%
 
