@@ -16,8 +16,8 @@ Discord is a good tool to learn in today's coding world: most workplaces will ha
 
 Every week you are responsible for:
 - 1 found visualization post, due **4:00pm NYC-time before every class session**, starting Week 2 (Sept. 10th)
-- asking @ least 1 question or making 1 comment on someone else's post
-- These posts are worth 15% of your grade - please keep these up, and help make the server a vibrant place! 
+- Asking @ least 1 question or making 1 comment on someone else's post
+- These posts are worth 20% of your grade - please keep these up, and help make the server a vibrant place! 
 
 ## Discord tips
   - you can [customize the appearance](https://support.discord.com/hc/en-us/articles/207260127-How-can-I-change-Discord-s-appearance-theme-) so it's easiest for you to read
