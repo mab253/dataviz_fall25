@@ -18,3 +18,6 @@
 ### on John Snow's map:
 - from _Inferential Thinking_, Adhikari, DeNero, Wagner. [Observation and Visualization: John Snow and the Broad Street Pump](https://inferentialthinking.com/chapters/02/1/observation-and-visualization-john-snow-and-the-broad-street-pump.html) **also: 📚 entire free book!**
 - [London Nightmen](https://victorianweb.org/history/work/19.html), the Victorian Web
+
+### slides:
+- https://docs.google.com/presentation/d/1J1LGgcHg6D3r700UnU8Zqht9QuXn9q0_agFkvfFTrqw/edit?slide=id.g27bd029fd48_0_0#slide=id.g27bd029fd48_0_0
