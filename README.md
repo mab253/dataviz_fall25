@@ -124,7 +124,7 @@ All work for this class will be lab, project, and presentation-based, and there 
 
 ---
 
-**Week 7: Oct. 22** \
+**Week 8: Oct. 22** \
 *Interactivity: Introducing Javascript*
 
 **Readings due today:**
@@ -137,7 +137,7 @@ All work for this class will be lab, project, and presentation-based, and there 
 ---
 
 
-**Week 8: Oct. 29** \
+**Week 9: Oct. 29** \
 *Geospatial Data: Maps I*
 
 **Readings due today:**
@@ -149,7 +149,7 @@ All work for this class will be lab, project, and presentation-based, and there 
 ---
 
 
-**Week 9: Nov. 5** \
+**Week 10: Nov. 5** \
 *Geospatial Data: Maps II*
 
 **Readings due today:**
@@ -159,7 +159,7 @@ All work for this class will be lab, project, and presentation-based, and there 
 
 ---
 
-**Week 10: Nov. 12** \
+**Week 11: Nov. 12** \
 *Dashboards + Live Data*
 
 **Readings due today:**
@@ -170,7 +170,7 @@ All work for this class will be lab, project, and presentation-based, and there 
 
 ---
 
-**Week 11: Nov. 19** \
+**Week 12: Nov. 19** \
 *Visualizing Networks*
 
 **Readings due today:**
@@ -178,7 +178,7 @@ All work for this class will be lab, project, and presentation-based, and there 
 - from[ _The Network Turn_](https://github.com/mab253/dataviz_fall23/blob/main/week10/the-network-turn-chapter.pdf), Ahnert, Coleman, Weingart; pp. 1-24, & pp. 57-61
 ---
 
-**Week 12: Nov. 26** \
+**Week 13: Nov. 26** \
 *Introduction to Modeling*
 
 **Readings due today:**
@@ -187,7 +187,7 @@ All work for this class will be lab, project, and presentation-based, and there 
 
 ---
 
-**Week 13: Dec. 3** \
+**Week 14: Dec. 3** \
 *Visualizing Machine Learning*
 
 **Readings due today:**
