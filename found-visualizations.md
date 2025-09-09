@@ -6,6 +6,9 @@ For each post, you'll need to:
 - add an image of the visualization (or a screenshot if it's interactive, multimedia, etc.)
 - cite the source: give us the link where you found it (or book! etc.), and name the author if available
 - write a short paragraph about how this visualization relates to the week's theme and readings.
+- post **due 4:00pm NYC-time before every class session** on Wednesday, starting Week 2 (Sept. 10th)
+- ask @ least 1 question or make 1 comment on someone else's post
+- reminder: these posts are worth 20% of your grade - please keep these up, and help make the server a vibrant place!
 
 The visualization you find can be one that you like, that exemplifies the principles we're discussing, that inspires you; or, it can be one that you want to critique, one that might be misleading or particularly difficult to read. It might be something in between. Tell us why this visualization strikes you! It can be in any format (chart, graph, map, table, interactive, sonification, hand-drawn, live performance, etc. etc.).
 
