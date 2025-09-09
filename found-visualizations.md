@@ -19,6 +19,6 @@ There is a **[list here](https://github.com/mab253/dataviz_fall25/blob/main/sour
 
 ## ⚡️ mini-talk
 
-After Week 2, 2-3 students in each class session will give an informal, short (_5 minute absolute max._) presentation of the visualization they chose. 
+Starting Week 2, 2-3 students in each class session will give an informal, short (_5 minute absolute max._) presentation of the visualization they chose. 
 
 ## 📆 mini-talk schedule:
