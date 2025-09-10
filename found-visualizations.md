@@ -22,6 +22,69 @@ There is a **[list here](https://github.com/mab253/dataviz_fall25/blob/main/sour
 
 ## ⚡️ mini-talk
 
-Starting Week 2, 2-3 students in each class session will give an informal, short (_5 minute absolute max._) presentation of the visualization they chose. 
+Starting Week 2, 2-4 students in each class session will give an informal, short (_5 minute absolute max._) presentation of the visualization they chose. 
 
 ## 📆 mini-talk schedule:
+
+Week 2: (Sept. 10)
+- Diana, Angel
+
+Week 3: (Sept. 17)
+- Chu L.
+- Matin N.
+- Diana A.
+- Hong Z.
+
+Week 6: (Oct. 8)
+- Riyesh N
+- Hong Z
+- Noushin H.
+- Ana M.
+
+Week 8: (Oct. 22)
+- Aida D.
+- Evan A.
+- Tahir Z.
+- Riyesh N.
+
+Week 9: (Oct. 29)
+- Maximo D.
+- Tahir Z.
+- Angel T.
+- Anthony S.
+
+Week 10: (Nov. 5)
+- Feriha O.
+- Ash K.
+- Qazim P
+- Chu L.
+
+Week 11: (Nov. 12)
+- Dennis C.
+- Qazim P
+- Feriha O.
+- Maximo D.
+
+Week 12: (Nov. 19)
+- Noushin H.
+- Ana M.
+- Dennis C.
+- Fatima N.
+
+Week 13: (Nov. 26)
+- Cindy Z.
+- Hao Z.
+- Evan A.
+- Matin N.
+
+Week 14: (Dec. 3)
+- Anthony S.
+- Aida D.
+- Cindy Z.
+- Hao Z.
+
+Week 15: (Dec. 15)
+- Fatima N.
+- Ash K.
+
+
