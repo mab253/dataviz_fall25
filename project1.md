@@ -7,7 +7,7 @@
 Due on **Oct. 6th, by 11:59pm**:
 - submit a screenshot showing me that you have completed the free sections of the course
 - in the final notebook, called "Add labels and annotations", add a cells to create 2 additional polished, original visualization of the given Waste dataset.
-- pay special attention to color and spacing, as we've been working on in class
+- pay special attention to color and spacing, as we've been studying
 - save and download that final "Add labels and annotations", then upload for submission
 
 Form for submission TBD and will be posted here and on Discord.
