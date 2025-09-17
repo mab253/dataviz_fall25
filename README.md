@@ -93,7 +93,7 @@ All work for this class will be lab, project, and presentation-based, and there 
 ---
 
 **Week 4 & 5 - NO CLASS: Sept. 24 & Oct. 1** 
-- _Project #1_: asynchronous 🎨 color assignment, codecademy seaborn course
+- _Project #1_: asynchronous assignment, [codecademy seaborn course](https://github.com/mab253/dataviz_fall25/blob/main/project1.md)
 - due Oct. 6th @ 11:59pm 
 
 ---
