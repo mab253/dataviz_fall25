@@ -8,7 +8,9 @@ Due on **Oct. 6th, by 11:59pm**:
 - submit a screenshot showing me that you have completed the free sections of the course
 - in the final notebook, called "Add labels and annotations", add cells to create 2 additional polished, original visualization of the given Waste dataset.
 - pay special attention to color and spacing, as we've been studying
-- save and download that final "Add labels and annotations", then upload for submission
+- save and download that final "Add labels and annotations" notebook as an `.ipynb`, then upload for submission
 
-Form for submission TBD and will be posted here and on Discord.
+Use [this form](https://airtable.com/app8wCIzUG0DBWhOq/shrIq5NZ9oRwrSePb) to submit your work when you are ready.
+
+See you back in class on Oct. 8th!
 
