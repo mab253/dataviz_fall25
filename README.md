@@ -93,7 +93,8 @@ All work for this class will be lab, project, and presentation-based, and there 
 ---
 
 **Week 4 & 5 - NO CLASS: Sept. 24 & Oct. 1** 
-- _Project #1_: asynchronous 🎨 color assignment, TBD, due Oct. 6th @ 11:59pm 
+- _Project #1_: asynchronous 🎨 color assignment, codecademy seaborn course
+- due Oct. 6th @ 11:59pm 
 
 ---
 
@@ -105,7 +106,6 @@ All work for this class will be lab, project, and presentation-based, and there 
 
 - _Visual Analysis and Design_, Munzner, [Color](https://www.youtube.com/watch?v=QNDd_hvdORw) 🎥 watch video, 18min.
 - [_Fundamentals of Data Visualization_](https://clauswilke.com/dataviz/aesthetic-mapping.html), Wilke, Ch. 2, 4, and 19 (they are short)
-- from [codecademy seaborn course](https://www.codecademy.com/learn/data-visualization-with-python-seaborn), TBD
 
 ---
 
