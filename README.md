@@ -110,17 +110,17 @@ All work for this class will be lab, project, and presentation-based, and there 
 ---
 
 **Week 7: Oct. 15** \
-*Narratives + Data Storytelling*
+*Narratives + Data Storytelling* 
 
+**🎨 class moved to Fri. Oct. 17th! @ MoMa** \
 **For this week**:
 
 - [_The Shape of Design_](https://shapeofdesignbook.com/chapters/07-stories-and-voids), Chimero, Ch. 7 "Stories and Voids"
-- _The Functional Art_ Cairo, intro to p. 23
-- _W.E.B. Du Bois's Data Portraits_, Battle-Baptiste and Rusert, p. 7-50 + Plates
+- work on project #2
 
 ---
 
-📊 _Project #2 Due_, Oct. 20th by 11:59pm
+📊 _Project #2 Due_, Oct. 21st by 11:59pm
 
 ---
 
@@ -150,7 +150,9 @@ All work for this class will be lab, project, and presentation-based, and there 
 
 
 **Week 10: Nov. 5** \
-*Geospatial Data: Maps II*
+*Geospatial Data: Maps II* 
+
+**💥 class meets on Zoom! see link via Discord**
 
 **Readings due today:**
 - ["Unicorns, Janitors, Ninjas, Wizards, and Rock Stars"](https://direct.mit.edu/books/oa-monograph/4660/chapter/213289/Unicorns-Janitors-Ninjas-Wizards-and-Rock-Stars) from [_Data Feminism_](https://direct.mit.edu/books/oa-monograph/4660/Data-Feminism), D'Ignazio and Klein
@@ -171,19 +173,22 @@ All work for this class will be lab, project, and presentation-based, and there 
 ---
 
 **Week 12: Nov. 19** \
-*Visualizing Networks*
-
-**Readings due today:**
-- ["Learning from Lombardi"](https://medium.com/@ben_fry/learning-from-lombardi-a28032a7eb5), Fry
-- from[ _The Network Turn_](https://github.com/mab253/dataviz_fall23/blob/main/week10/the-network-turn-chapter.pdf), Ahnert, Coleman, Weingart; pp. 1-24, & pp. 57-61
----
-
-**Week 13: Nov. 26** \
 *Introduction to Modeling*
 
 **Readings due today:**
 - TBD
 - ["Missing Datasets"](https://github.com/MimiOnuoha/missing-datasets) and ["The Point of Collection"](https://medium.com/datasociety-points/the-point-of-collection-8ee44ad7c2fa) Mimi Onuoha
+
+---
+
+**Week 13: Nov. 26** \
+*Visualizing Networks* 
+
+**💥 class meets on Zoom! see link via Discord**
+
+**Readings due today:**
+- ["Learning from Lombardi"](https://medium.com/@ben_fry/learning-from-lombardi-a28032a7eb5), Fry
+- from[ _The Network Turn_](https://github.com/mab253/dataviz_fall23/blob/main/week10/the-network-turn-chapter.pdf), Ahnert, Coleman, Weingart; pp. 1-24, & pp. 57-61
 
 ---
 
