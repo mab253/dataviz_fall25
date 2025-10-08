@@ -5,9 +5,9 @@ For this assignment, you will conduct exploratory analysis on a few datasets and
 You may start with the following steps:
 
 1. Download and explore the climate datasets below.
-2. Examine the datasets' basic attributes and determine a research question or 2 that you would like to answer about the data. What relationships do you hope to explore between various attributes? What trends do you wonder about? 
-3. Research any basic aspect of the dataset that you need - what do certain attributes mean to the domain (subject matter)? Do you understand what all the attributes and variables mean? What context do you need to understand about the domain subject matter itself?
-4. Explore with rough visualizations and `pandas` analysis. Please show all work. 
+2. Examine the datasets' basic attributes and determine a research question or 2 that you would like to answer about the data. What relationships do you hope to explore between various attributes? What trends do you wonder about? What uncertainties do you have about the dataset that you want to explore?
+3. Research any basic aspect of the dataset that you need - what do all the attributes (columns) mean to the domain (subject matter)? Do you understand what all the attributes and variables mean? What context do you need to understand about the domain subject matter itself? Do you need to do outside reading?
+4. Explore with rough visualizations, dataframes, and `pandas` analysis. Please show all work. 
 5. Finalize **2 visualizations** that help answer your initial questions, and _tells a story_ with the data.
 6. Write a short report about your process, your conclusions, and your final visualizations, including any further questions you have about the data. (This written element should be 500-700 words.)
 
@@ -22,7 +22,7 @@ You may start with the following steps:
   - (we started working on this one in class to create the warming stripes)
   - https://www.metoffice.gov.uk/hadobs/hadcrut5/data/HadCRUT.5.0.2.0/download.html 
 
-**💥 remember, you do not have to visualize every attribute! what columns will you focus on?** \
+**💥 remember, you do not have to visualize every attribute! what columns will you focus on to tell a unique story?** \
 have fun!
 
 ## 🔎 evaluation criteria
@@ -33,10 +33,10 @@ Your work will be evaluated based on your analysis process, final visualizations
   - Breadth of analysis, exploring multiple questions
   - Depth of analysis, with appropriate follow up questions
   - Clear explanation of your process and choices in your report  
-  - 2 final visualizations are polished, they can "stand alone" and tell a story
+  - 2 final visualizations are polished, they can "stand alone" and **tell a story**
   - Expressive and effective visualizations, good design choices based on what we've learned (color, shape, other channels, etc.)!
   - Clear and relevant captions, titles, axes, and any other necessary labels
-  - You may research new methods beyond what we've covered in class if you wish, including _light_ use of generative AI tools, **_with citations_**! ([see here](https://github.com/mab253/dataviz_fall25/blob/main/ai-citations.md)
+  - You may research new methods beyond what we've covered in class if you wish, including _light_ use of generative AI tools, **_with citations_**! ([see here](https://github.com/mab253/dataviz_fall25/blob/main/ai-citations.md))
 
 ## ✉️ submit your work 
   - Your exploratory analysis, code, and initial rough graphics should all be cleanly organized in 1 Jupyter notebook.
