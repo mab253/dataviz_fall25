@@ -1,5 +1,5 @@
 ### 🖥️ lab links: 
-- [lab_week6_color_ii_class.ipynb](https://colab.research.google.com/github/mab253/dataviz_fall25/blob/main/week4/lab_week6_color_ii_class.ipynb) -  Google Colab ![colab_logo_32px](https://github.com/mab253/dataviz_fall23/assets/17707843/9f26ae0a-cf0f-42c2-a1f5-584bb38a36c7)
+- [lab_week6_color_ii_class.ipynb](https://colab.research.google.com/github/mab253/dataviz_fall25/blob/main/week6/lab_week6_color_ii_class.ipynb) -  Google Colab ![colab_logo_32px](https://github.com/mab253/dataviz_fall23/assets/17707843/9f26ae0a-cf0f-42c2-a1f5-584bb38a36c7)
 
   
 ### 🤖 resources for color:
