@@ -213,7 +213,7 @@ DUE: Dec. 17th, 11:59pm
 
 ## key dates
 - project #1: due Oct. 6, 11:59pm
-- project #2: due Oct. 20, 11:59pm
+- project #2: due Oct. 21st, 11:59pm
 - final presentation: in-class, Dec. 10th
 - final project documentation: due Dec. 17th, 11:59pm
 
