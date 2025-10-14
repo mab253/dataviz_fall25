@@ -117,11 +117,11 @@ All work for this class will be lab, project, and presentation-based, and there 
 
 - [_The Shape of Design_](https://shapeofdesignbook.com/chapters/07-stories-and-voids), Chimero, Ch. 7 "Stories and Voids"
 - from [_W.E.B. Du Bois's Data Portraits_](https://github.com/mab253/dataviz_fall25/blob/main/readings/W.-E.-B.-Du-Boiss-Data-Portrai-Britt-Rusert-2.pdf), Battle-Baptiste and Rusert, introduction + plates, 
-- work on project #2
+- work on [project #2](https://github.com/mab253/dataviz_fall25/blob/main/project2.md)
 
 ---
 
-📊 _Project #2 Due_, Oct. 21st by 11:59pm
+📊 _[Project #2](https://github.com/mab253/dataviz_fall25/blob/main/project2.md) Due_, Oct. 21st by 11:59pm
 
 ---
 
