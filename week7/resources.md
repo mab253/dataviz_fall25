@@ -1,5 +1,6 @@
 ### 🖥️ lab link:
-- [tinker.io starter project](https://trinket.io/html/77c6ad43ebbe) - click here!
+- [completed trinket.io d3 lab](https://trinket.io/html/a12b19439157), for reference
+- [trinket.io starter project](https://trinket.io/html/77c6ad43ebbe) - click here!
   - once you have an account, click "remix" button, upper right
   
 ### 🤖 resources for d3:
