@@ -1,5 +1,5 @@
 ### 🖥️ lab link:
-- see my code that we did for walk-thru of creating election choropleth, in 25mayor-map folder (especially `script.js`)
+- see code from walk-thru of creating election choropleth map, in 25mayor-map folder (especially `script.js`)
 
 ### 🤖 other links:
 - [WhoOwnsWhat](https://whoownswhat.justfix.org/en/) look up your address, landlord, their portfolio, building complaints, etc. - worth seeing what you find out!
