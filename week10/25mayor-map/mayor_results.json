@@ -1,0 +1,1598 @@
+[
+    {
+        "Neighborhood":"Upper East Side",
+        "Margin":"Cuomo +24",
+        "Mamdani":"36%",
+        "Cuomo":"60%",
+        "Total votes":"90,390"
+    },
+    {
+        "Neighborhood":"Upper West Side",
+        "Margin":"Mamdani +5",
+        "Mamdani":"51%",
+        "Cuomo":"45%",
+        "Total votes":"85,951"
+    },
+    {
+        "Neighborhood":"Bedford-Stuyvesant",
+        "Margin":"Mamdani +57",
+        "Mamdani":"77%",
+        "Cuomo":"20%",
+        "Total votes":"48,030"
+    },
+    {
+        "Neighborhood":"Astoria",
+        "Margin":"Mamdani +39",
+        "Mamdani":"66%",
+        "Cuomo":"27%",
+        "Total votes":"45,362"
+    },
+    {
+        "Neighborhood":"Crown Heights",
+        "Margin":"Mamdani +43",
+        "Mamdani":"71%",
+        "Cuomo":"27%",
+        "Total votes":"41,958"
+    },
+    {
+        "Neighborhood":"Williamsburg",
+        "Margin":"Mamdani +26",
+        "Mamdani":"61%",
+        "Cuomo":"35%",
+        "Total votes":"38,673"
+    },
+    {
+        "Neighborhood":"Washington Heights",
+        "Margin":"Mamdani +32",
+        "Mamdani":"64%",
+        "Cuomo":"32%",
+        "Total votes":"36,246"
+    },
+    {
+        "Neighborhood":"Harlem",
+        "Margin":"Mamdani +45",
+        "Mamdani":"71%",
+        "Cuomo":"26%",
+        "Total votes":"35,395"
+    },
+    {
+        "Neighborhood":"Midwood",
+        "Margin":"Cuomo +57",
+        "Mamdani":"19%",
+        "Cuomo":"76%",
+        "Total votes":"30,803"
+    },
+    {
+        "Neighborhood":"Bushwick",
+        "Margin":"Mamdani +67",
+        "Mamdani":"82%",
+        "Cuomo":"15%",
+        "Total votes":"29,197"
+    },
+    {
+        "Neighborhood":"Flatbush",
+        "Margin":"Mamdani +56",
+        "Mamdani":"76%",
+        "Cuomo":"21%",
+        "Total votes":"29,066"
+    },
+    {
+        "Neighborhood":"Flushing",
+        "Margin":"Cuomo +13",
+        "Mamdani":"37%",
+        "Cuomo":"50%",
+        "Total votes":"28,426"
+    },
+    {
+        "Neighborhood":"Sheepshead Bay",
+        "Margin":"Cuomo +52",
+        "Mamdani":"19%",
+        "Cuomo":"70%",
+        "Total votes":"28,081"
+    },
+    {
+        "Neighborhood":"Park Slope",
+        "Margin":"Mamdani +56",
+        "Mamdani":"77%",
+        "Cuomo":"20%",
+        "Total votes":"26,870"
+    },
+    {
+        "Neighborhood":"Borough Park",
+        "Margin":"Cuomo +78",
+        "Mamdani":"8%",
+        "Cuomo":"86%",
+        "Total votes":"25,206"
+    },
+    {
+        "Neighborhood":"East Harlem",
+        "Margin":"Mamdani +30",
+        "Mamdani":"62%",
+        "Cuomo":"33%",
+        "Total votes":"24,820"
+    },
+    {
+        "Neighborhood":"Bay Ridge",
+        "Margin":"Mamdani +5",
+        "Mamdani":"45%",
+        "Cuomo":"41%",
+        "Total votes":"24,707"
+    },
+    {
+        "Neighborhood":"East New York (Brooklyn)",
+        "Margin":"Mamdani +22",
+        "Mamdani":"59%",
+        "Cuomo":"37%",
+        "Total votes":"24,020"
+    },
+    {
+        "Neighborhood":"East Flatbush",
+        "Margin":"Mamdani +26",
+        "Mamdani":"61%",
+        "Cuomo":"36%",
+        "Total votes":"23,693"
+    },
+    {
+        "Neighborhood":"Jamaica",
+        "Margin":"Mamdani +28",
+        "Mamdani":"62%",
+        "Cuomo":"34%",
+        "Total votes":"23,673"
+    },
+    {
+        "Neighborhood":"Forest Hills",
+        "Margin":"Cuomo +15",
+        "Mamdani":"39%",
+        "Cuomo":"54%",
+        "Total votes":"22,384"
+    },
+    {
+        "Neighborhood":"Chelsea (Manhattan)",
+        "Margin":"Mamdani +11",
+        "Mamdani":"53%",
+        "Cuomo":"42%",
+        "Total votes":"22,306"
+    },
+    {
+        "Neighborhood":"East Village",
+        "Margin":"Mamdani +42",
+        "Mamdani":"69%",
+        "Cuomo":"27%",
+        "Total votes":"21,819"
+    },
+    {
+        "Neighborhood":"Hell's Kitchen",
+        "Margin":"Mamdani +31",
+        "Mamdani":"63%",
+        "Cuomo":"32%",
+        "Total votes":"20,220"
+    },
+    {
+        "Neighborhood":"Jackson Heights",
+        "Margin":"Mamdani +28",
+        "Mamdani":"60%",
+        "Cuomo":"32%",
+        "Total votes":"19,100"
+    },
+    {
+        "Neighborhood":"Midtown East",
+        "Margin":"Cuomo +24",
+        "Mamdani":"36%",
+        "Cuomo":"59%",
+        "Total votes":"18,004"
+    },
+    {
+        "Neighborhood":"Lower East Side",
+        "Margin":"Mamdani +22",
+        "Mamdani":"58%",
+        "Cuomo":"36%",
+        "Total votes":"17,815"
+    },
+    {
+        "Neighborhood":"Ridgewood",
+        "Margin":"Mamdani +48",
+        "Mamdani":"70%",
+        "Cuomo":"21%",
+        "Total votes":"16,468"
+    },
+    {
+        "Neighborhood":"Kensington",
+        "Margin":"Mamdani +29",
+        "Mamdani":"62%",
+        "Cuomo":"33%",
+        "Total votes":"16,340"
+    },
+    {
+        "Neighborhood":"Canarsie",
+        "Margin":"Mamdani +25",
+        "Mamdani":"61%",
+        "Cuomo":"36%",
+        "Total votes":"16,179"
+    },
+    {
+        "Neighborhood":"Elmhurst",
+        "Margin":"Mamdani +14",
+        "Mamdani":"52%",
+        "Cuomo":"38%",
+        "Total votes":"15,470"
+    },
+    {
+        "Neighborhood":"Greenpoint",
+        "Margin":"Mamdani +60",
+        "Mamdani":"77%",
+        "Cuomo":"17%",
+        "Total votes":"15,188"
+    },
+    {
+        "Neighborhood":"Bensonhurst",
+        "Margin":"Cuomo +19",
+        "Mamdani":"33%",
+        "Cuomo":"51%",
+        "Total votes":"14,982"
+    },
+    {
+        "Neighborhood":"Concourse",
+        "Margin":"Mamdani +20",
+        "Mamdani":"57%",
+        "Cuomo":"37%",
+        "Total votes":"14,912"
+    },
+    {
+        "Neighborhood":"Gravesend",
+        "Margin":"Cuomo +45",
+        "Mamdani":"22%",
+        "Cuomo":"66%",
+        "Total votes":"14,816"
+    },
+    {
+        "Neighborhood":"Sunset Park",
+        "Margin":"Mamdani +29",
+        "Mamdani":"60%",
+        "Cuomo":"31%",
+        "Total votes":"14,767"
+    },
+    {
+        "Neighborhood":"Long Island City",
+        "Margin":"Mamdani +42",
+        "Mamdani":"69%",
+        "Cuomo":"27%",
+        "Total votes":"14,650"
+    },
+    {
+        "Neighborhood":"Sunnyside (Queens)",
+        "Margin":"Mamdani +39",
+        "Mamdani":"66%",
+        "Cuomo":"27%",
+        "Total votes":"13,454"
+    },
+    {
+        "Neighborhood":"Bayside",
+        "Margin":"Cuomo +25",
+        "Mamdani":"30%",
+        "Cuomo":"54%",
+        "Total votes":"13,444"
+    },
+    {
+        "Neighborhood":"West Village",
+        "Margin":"Mamdani +5",
+        "Mamdani":"51%",
+        "Cuomo":"46%",
+        "Total votes":"13,120"
+    },
+    {
+        "Neighborhood":"Queens Village",
+        "Margin":"Mamdani +22",
+        "Mamdani":"58%",
+        "Cuomo":"36%",
+        "Total votes":"12,388"
+    },
+    {
+        "Neighborhood":"Kips Bay",
+        "Margin":"Mamdani +3",
+        "Mamdani":"49%",
+        "Cuomo":"46%",
+        "Total votes":"12,376"
+    },
+    {
+        "Neighborhood":"Rego Park",
+        "Margin":"Cuomo +23",
+        "Mamdani":"34%",
+        "Cuomo":"57%",
+        "Total votes":"12,272"
+    },
+    {
+        "Neighborhood":"Fort Greene",
+        "Margin":"Mamdani +59",
+        "Mamdani":"78%",
+        "Cuomo":"19%",
+        "Total votes":"12,125"
+    },
+    {
+        "Neighborhood":"Prospect Lefferts Gardens",
+        "Margin":"Mamdani +51",
+        "Mamdani":"74%",
+        "Cuomo":"24%",
+        "Total votes":"11,945"
+    },
+    {
+        "Neighborhood":"Hamilton Heights",
+        "Margin":"Mamdani +47",
+        "Mamdani":"71%",
+        "Cuomo":"25%",
+        "Total votes":"11,875"
+    },
+    {
+        "Neighborhood":"Whitestone",
+        "Margin":"Cuomo +38",
+        "Mamdani":"18%",
+        "Cuomo":"60%",
+        "Total votes":"11,798"
+    },
+    {
+        "Neighborhood":"Co-op City",
+        "Margin":"Mamdani +0.85",
+        "Mamdani":"47%",
+        "Cuomo":"46%",
+        "Total votes":"11,536"
+    },
+    {
+        "Neighborhood":"Clinton Hill",
+        "Margin":"Mamdani +67",
+        "Mamdani":"82%",
+        "Cuomo":"15%",
+        "Total votes":"11,369"
+    },
+    {
+        "Neighborhood":"Soundview",
+        "Margin":"Mamdani +16",
+        "Mamdani":"55%",
+        "Cuomo":"39%",
+        "Total votes":"11,352"
+    },
+    {
+        "Neighborhood":"Greenwich Village",
+        "Margin":"Mamdani +6",
+        "Mamdani":"51%",
+        "Cuomo":"45%",
+        "Total votes":"11,138"
+    },
+    {
+        "Neighborhood":"Woodside",
+        "Margin":"Mamdani +25",
+        "Mamdani":"58%",
+        "Cuomo":"33%",
+        "Total votes":"10,968"
+    },
+    {
+        "Neighborhood":"Flatlands",
+        "Margin":"Mamdani +27",
+        "Mamdani":"61%",
+        "Cuomo":"34%",
+        "Total votes":"10,533"
+    },
+    {
+        "Neighborhood":"St. Albans",
+        "Margin":"Mamdani +16",
+        "Mamdani":"56%",
+        "Cuomo":"40%",
+        "Total votes":"10,288"
+    },
+    {
+        "Neighborhood":"Financial District",
+        "Margin":"Mamdani +6",
+        "Mamdani":"50%",
+        "Cuomo":"44%",
+        "Total votes":"10,262"
+    },
+    {
+        "Neighborhood":"Inwood",
+        "Margin":"Mamdani +38",
+        "Mamdani":"66%",
+        "Cuomo":"29%",
+        "Total votes":"10,256"
+    },
+    {
+        "Neighborhood":"Great Kills",
+        "Margin":"Cuomo +38",
+        "Mamdani":"13%",
+        "Cuomo":"63%",
+        "Total votes":"10,139"
+    },
+    {
+        "Neighborhood":"Kew Gardens Hills",
+        "Margin":"Cuomo +47",
+        "Mamdani":"23%",
+        "Cuomo":"70%",
+        "Total votes":"10,124"
+    },
+    {
+        "Neighborhood":"Prospect Heights",
+        "Margin":"Mamdani +67",
+        "Mamdani":"82%",
+        "Cuomo":"15%",
+        "Total votes":"10,119"
+    },
+    {
+        "Neighborhood":"Ozone Park",
+        "Margin":"Mamdani +22",
+        "Mamdani":"55%",
+        "Cuomo":"33%",
+        "Total votes":"10,046"
+    },
+    {
+        "Neighborhood":"East Elmhurst",
+        "Margin":"Mamdani +20",
+        "Mamdani":"56%",
+        "Cuomo":"36%",
+        "Total votes":"10,003"
+    },
+    {
+        "Neighborhood":"Parkchester",
+        "Margin":"Mamdani +27",
+        "Mamdani":"61%",
+        "Cuomo":"33%",
+        "Total votes":"9,906"
+    },
+    {
+        "Neighborhood":"Corona",
+        "Margin":"Mamdani +11",
+        "Mamdani":"51%",
+        "Cuomo":"40%",
+        "Total votes":"9,847"
+    },
+    {
+        "Neighborhood":"Maspeth",
+        "Margin":"Cuomo +14",
+        "Mamdani":"31%",
+        "Cuomo":"45%",
+        "Total votes":"9,827"
+    },
+    {
+        "Neighborhood":"Coney Island",
+        "Margin":"Cuomo +43",
+        "Mamdani":"24%",
+        "Cuomo":"67%",
+        "Total votes":"9,670"
+    },
+    {
+        "Neighborhood":"Stuyvesant Town",
+        "Margin":"Mamdani +23",
+        "Mamdani":"58%",
+        "Cuomo":"36%",
+        "Total votes":"9,533"
+    },
+    {
+        "Neighborhood":"Brooklyn Heights",
+        "Margin":"Mamdani +27",
+        "Mamdani":"62%",
+        "Cuomo":"35%",
+        "Total votes":"9,482"
+    },
+    {
+        "Neighborhood":"Bath Beach",
+        "Margin":"Cuomo +22",
+        "Mamdani":"31%",
+        "Cuomo":"53%",
+        "Total votes":"9,435"
+    },
+    {
+        "Neighborhood":"Riverdale",
+        "Margin":"Cuomo +5",
+        "Mamdani":"44%",
+        "Cuomo":"49%",
+        "Total votes":"9,346"
+    },
+    {
+        "Neighborhood":"Middle Village",
+        "Margin":"Cuomo +28",
+        "Mamdani":"22%",
+        "Cuomo":"53%",
+        "Total votes":"9,299"
+    },
+    {
+        "Neighborhood":"Richmond Hill",
+        "Margin":"Mamdani +18",
+        "Mamdani":"55%",
+        "Cuomo":"36%",
+        "Total votes":"9,229"
+    },
+    {
+        "Neighborhood":"Morningside Heights",
+        "Margin":"Mamdani +49",
+        "Mamdani":"73%",
+        "Cuomo":"24%",
+        "Total votes":"9,167"
+    },
+    {
+        "Neighborhood":"Springfield Gardens",
+        "Margin":"Mamdani +12",
+        "Mamdani":"54%",
+        "Cuomo":"42%",
+        "Total votes":"9,129"
+    },
+    {
+        "Neighborhood":"Eltingville",
+        "Margin":"Cuomo +32",
+        "Mamdani":"11%",
+        "Cuomo":"60%",
+        "Total votes":"8,935"
+    },
+    {
+        "Neighborhood":"Howard Beach",
+        "Margin":"Cuomo +26",
+        "Mamdani":"17%",
+        "Cuomo":"54%",
+        "Total votes":"8,893"
+    },
+    {
+        "Neighborhood":"Throgs Neck",
+        "Margin":"Cuomo +14",
+        "Mamdani":"30%",
+        "Cuomo":"44%",
+        "Total votes":"8,779"
+    },
+    {
+        "Neighborhood":"South Ozone Park",
+        "Margin":"Mamdani +18",
+        "Mamdani":"55%",
+        "Cuomo":"37%",
+        "Total votes":"8,693"
+    },
+    {
+        "Neighborhood":"Dyker Heights",
+        "Margin":"Cuomo +24",
+        "Mamdani":"29%",
+        "Cuomo":"52%",
+        "Total votes":"8,489"
+    },
+    {
+        "Neighborhood":"Morris Heights",
+        "Margin":"Mamdani +9",
+        "Mamdani":"52%",
+        "Cuomo":"43%",
+        "Total votes":"8,443"
+    },
+    {
+        "Neighborhood":"Wakefield",
+        "Margin":"Mamdani +13",
+        "Mamdani":"54%",
+        "Cuomo":"41%",
+        "Total votes":"8,341"
+    },
+    {
+        "Neighborhood":"TriBeCa",
+        "Margin":"Cuomo +26",
+        "Mamdani":"36%",
+        "Cuomo":"61%",
+        "Total votes":"8,314"
+    },
+    {
+        "Neighborhood":"Mott Haven",
+        "Margin":"Mamdani +22",
+        "Mamdani":"58%",
+        "Cuomo":"36%",
+        "Total votes":"8,279"
+    },
+    {
+        "Neighborhood":"Murray Hill (Manhattan)",
+        "Margin":"Cuomo +11",
+        "Mamdani":"42%",
+        "Cuomo":"53%",
+        "Total votes":"8,234"
+    },
+    {
+        "Neighborhood":"Kingsbridge",
+        "Margin":"Mamdani +14",
+        "Mamdani":"53%",
+        "Cuomo":"39%",
+        "Total votes":"8,118"
+    },
+    {
+        "Neighborhood":"Far Rockaway",
+        "Margin":"Cuomo +27",
+        "Mamdani":"34%",
+        "Cuomo":"61%",
+        "Total votes":"7,963"
+    },
+    {
+        "Neighborhood":"Marine Park",
+        "Margin":"Cuomo +40",
+        "Mamdani":"20%",
+        "Cuomo":"60%",
+        "Total votes":"7,897"
+    },
+    {
+        "Neighborhood":"Glendale",
+        "Margin":"Cuomo +12",
+        "Mamdani":"33%",
+        "Cuomo":"45%",
+        "Total votes":"7,760"
+    },
+    {
+        "Neighborhood":"Kew Gardens",
+        "Margin":"Mamdani +3",
+        "Mamdani":"47%",
+        "Cuomo":"44%",
+        "Total votes":"7,727"
+    },
+    {
+        "Neighborhood":"Brownsville",
+        "Margin":"Mamdani +18",
+        "Mamdani":"57%",
+        "Cuomo":"39%",
+        "Total votes":"7,692"
+    },
+    {
+        "Neighborhood":"Arden Heights",
+        "Margin":"Cuomo +37",
+        "Mamdani":"13%",
+        "Cuomo":"62%",
+        "Total votes":"7,386"
+    },
+    {
+        "Neighborhood":"Windsor Terrace",
+        "Margin":"Mamdani +50",
+        "Mamdani":"72%",
+        "Cuomo":"22%",
+        "Total votes":"7,281"
+    },
+    {
+        "Neighborhood":"Fresh Meadows",
+        "Margin":"Cuomo +31",
+        "Mamdani":"30%",
+        "Cuomo":"61%",
+        "Total votes":"7,230"
+    },
+    {
+        "Neighborhood":"Downtown Brooklyn",
+        "Margin":"Mamdani +53",
+        "Mamdani":"75%",
+        "Cuomo":"22%",
+        "Total votes":"7,211"
+    },
+    {
+        "Neighborhood":"Woodhaven",
+        "Margin":"Mamdani +7",
+        "Mamdani":"46%",
+        "Cuomo":"40%",
+        "Total votes":"7,066"
+    },
+    {
+        "Neighborhood":"Longwood",
+        "Margin":"Mamdani +9",
+        "Mamdani":"51%",
+        "Cuomo":"42%",
+        "Total votes":"7,057"
+    },
+    {
+        "Neighborhood":"Fordham",
+        "Margin":"Mamdani +13",
+        "Mamdani":"54%",
+        "Cuomo":"40%",
+        "Total votes":"7,049"
+    },
+    {
+        "Neighborhood":"Gramercy Park",
+        "Margin":"Mamdani +2",
+        "Mamdani":"49%",
+        "Cuomo":"47%",
+        "Total votes":"6,954"
+    },
+    {
+        "Neighborhood":"West Brighton (Staten Island)",
+        "Margin":"Cuomo +15",
+        "Mamdani":"33%",
+        "Cuomo":"49%",
+        "Total votes":"6,903"
+    },
+    {
+        "Neighborhood":"Bellerose",
+        "Margin":"Mamdani +10",
+        "Mamdani":"48%",
+        "Cuomo":"38%",
+        "Total votes":"6,867"
+    },
+    {
+        "Neighborhood":"Carroll Gardens",
+        "Margin":"Mamdani +45",
+        "Mamdani":"70%",
+        "Cuomo":"26%",
+        "Total votes":"6,708"
+    },
+    {
+        "Neighborhood":"Williamsbridge",
+        "Margin":"Mamdani +18",
+        "Mamdani":"57%",
+        "Cuomo":"39%",
+        "Total votes":"6,459"
+    },
+    {
+        "Neighborhood":"Boerum Hill",
+        "Margin":"Mamdani +56",
+        "Mamdani":"77%",
+        "Cuomo":"20%",
+        "Total votes":"6,339"
+    },
+    {
+        "Neighborhood":"Laurelton",
+        "Margin":"Mamdani +17",
+        "Mamdani":"57%",
+        "Cuomo":"40%",
+        "Total votes":"6,339"
+    },
+    {
+        "Neighborhood":"New Springville",
+        "Margin":"Cuomo +35",
+        "Mamdani":"22%",
+        "Cuomo":"58%",
+        "Total votes":"6,302"
+    },
+    {
+        "Neighborhood":"Briarwood",
+        "Margin":"Mamdani +14",
+        "Mamdani":"53%",
+        "Cuomo":"39%",
+        "Total votes":"6,259"
+    },
+    {
+        "Neighborhood":"Castle Hill",
+        "Margin":"Mamdani +17",
+        "Mamdani":"55%",
+        "Cuomo":"38%",
+        "Total votes":"6,093"
+    },
+    {
+        "Neighborhood":"Bedford Park",
+        "Margin":"Mamdani +15",
+        "Mamdani":"54%",
+        "Cuomo":"39%",
+        "Total votes":"5,996"
+    },
+    {
+        "Neighborhood":"Midtown",
+        "Margin":"Cuomo +6",
+        "Mamdani":"44%",
+        "Cuomo":"50%",
+        "Total votes":"5,951"
+    },
+    {
+        "Neighborhood":"Pelham Bay",
+        "Margin":"Cuomo +0.34",
+        "Mamdani":"40%",
+        "Cuomo":"41%",
+        "Total votes":"5,882"
+    },
+    {
+        "Neighborhood":"Bulls Head",
+        "Margin":"Cuomo +32",
+        "Mamdani":"23%",
+        "Cuomo":"55%",
+        "Total votes":"5,790"
+    },
+    {
+        "Neighborhood":"Brighton Beach",
+        "Margin":"Cuomo +38",
+        "Mamdani":"26%",
+        "Cuomo":"64%",
+        "Total votes":"5,787"
+    },
+    {
+        "Neighborhood":"Hollis",
+        "Margin":"Mamdani +30",
+        "Mamdani":"63%",
+        "Cuomo":"33%",
+        "Total votes":"5,777"
+    },
+    {
+        "Neighborhood":"Gowanus",
+        "Margin":"Mamdani +59",
+        "Mamdani":"77%",
+        "Cuomo":"19%",
+        "Total votes":"5,647"
+    },
+    {
+        "Neighborhood":"University Heights",
+        "Margin":"Mamdani +10",
+        "Mamdani":"52%",
+        "Cuomo":"42%",
+        "Total votes":"5,616"
+    },
+    {
+        "Neighborhood":"Cambria Heights",
+        "Margin":"Mamdani +13",
+        "Mamdani":"55%",
+        "Cuomo":"42%",
+        "Total votes":"5,573"
+    },
+    {
+        "Neighborhood":"Little Neck",
+        "Margin":"Cuomo +31",
+        "Mamdani":"27%",
+        "Cuomo":"59%",
+        "Total votes":"5,510"
+    },
+    {
+        "Neighborhood":"Ditmas Park",
+        "Margin":"Mamdani +61",
+        "Mamdani":"79%",
+        "Cuomo":"18%",
+        "Total votes":"5,383"
+    },
+    {
+        "Neighborhood":"Tottenville",
+        "Margin":"Cuomo +27",
+        "Mamdani":"9%",
+        "Cuomo":"59%",
+        "Total votes":"5,350"
+    },
+    {
+        "Neighborhood":"Melrose",
+        "Margin":"Mamdani +15",
+        "Mamdani":"55%",
+        "Cuomo":"40%",
+        "Total votes":"5,290"
+    },
+    {
+        "Neighborhood":"Cypress Hills",
+        "Margin":"Mamdani +20",
+        "Mamdani":"56%",
+        "Cuomo":"36%",
+        "Total votes":"5,239"
+    },
+    {
+        "Neighborhood":"Cobble Hill",
+        "Margin":"Mamdani +45",
+        "Mamdani":"71%",
+        "Cuomo":"26%",
+        "Total votes":"5,143"
+    },
+    {
+        "Neighborhood":"Rosedale",
+        "Margin":"Mamdani +20",
+        "Mamdani":"58%",
+        "Cuomo":"38%",
+        "Total votes":"5,132"
+    },
+    {
+        "Neighborhood":"Westerleigh",
+        "Margin":"Cuomo +31",
+        "Mamdani":"19%",
+        "Cuomo":"56%",
+        "Total votes":"5,085"
+    },
+    {
+        "Neighborhood":"Other",
+        "Margin":"Cuomo +38",
+        "Mamdani":"21%",
+        "Cuomo":"59%",
+        "Total votes":"5,038"
+    },
+    {
+        "Neighborhood":"East Williamsburg",
+        "Margin":"Mamdani +67",
+        "Mamdani":"82%",
+        "Cuomo":"15%",
+        "Total votes":"5,030"
+    },
+    {
+        "Neighborhood":"Battery Park City",
+        "Margin":"Cuomo +24",
+        "Mamdani":"36%",
+        "Cuomo":"60%",
+        "Total votes":"4,919"
+    },
+    {
+        "Neighborhood":"Bay Terrace (Queens)",
+        "Margin":"Cuomo +39",
+        "Mamdani":"23%",
+        "Cuomo":"62%",
+        "Total votes":"4,912"
+    },
+    {
+        "Neighborhood":"Allerton",
+        "Margin":"Mamdani +17",
+        "Mamdani":"54%",
+        "Cuomo":"38%",
+        "Total votes":"4,825"
+    },
+    {
+        "Neighborhood":"Norwood",
+        "Margin":"Mamdani +30",
+        "Mamdani":"61%",
+        "Cuomo":"31%",
+        "Total votes":"4,798"
+    },
+    {
+        "Neighborhood":"Highbridge",
+        "Margin":"Mamdani +13",
+        "Mamdani":"54%",
+        "Cuomo":"41%",
+        "Total votes":"4,788"
+    },
+    {
+        "Neighborhood":"Spuyten Duyvil",
+        "Margin":"Cuomo +5",
+        "Mamdani":"44%",
+        "Cuomo":"49%",
+        "Total votes":"4,703"
+    },
+    {
+        "Neighborhood":"Oakland Gardens",
+        "Margin":"Cuomo +24",
+        "Mamdani":"31%",
+        "Cuomo":"55%",
+        "Total votes":"4,702"
+    },
+    {
+        "Neighborhood":"SoHo",
+        "Margin":"Mamdani +5",
+        "Mamdani":"51%",
+        "Cuomo":"46%",
+        "Total votes":"4,694"
+    },
+    {
+        "Neighborhood":"Flatiron",
+        "Margin":"Cuomo +19",
+        "Mamdani":"39%",
+        "Cuomo":"58%",
+        "Total votes":"4,662"
+    },
+    {
+        "Neighborhood":"Pelham Parkway",
+        "Margin":"Mamdani +16",
+        "Mamdani":"53%",
+        "Cuomo":"37%",
+        "Total votes":"4,502"
+    },
+    {
+        "Neighborhood":"Mariners Harbor",
+        "Margin":"Mamdani +20",
+        "Mamdani":"54%",
+        "Cuomo":"34%",
+        "Total votes":"4,497"
+    },
+    {
+        "Neighborhood":"College Point",
+        "Margin":"Cuomo +15",
+        "Mamdani":"33%",
+        "Cuomo":"48%",
+        "Total votes":"4,440"
+    },
+    {
+        "Neighborhood":"Morris Park",
+        "Margin":"Cuomo +0.59",
+        "Mamdani":"42%",
+        "Cuomo":"42%",
+        "Total votes":"4,427"
+    },
+    {
+        "Neighborhood":"Belle Harbor",
+        "Margin":"Cuomo +37",
+        "Mamdani":"10%",
+        "Cuomo":"63%",
+        "Total votes":"4,415"
+    },
+    {
+        "Neighborhood":"Huguenot",
+        "Margin":"Cuomo +41",
+        "Mamdani":"9%",
+        "Cuomo":"66%",
+        "Total votes":"4,395"
+    },
+    {
+        "Neighborhood":"Emerson Hill",
+        "Margin":"Cuomo +32",
+        "Mamdani":"26%",
+        "Cuomo":"58%",
+        "Total votes":"4,321"
+    },
+    {
+        "Neighborhood":"Mill Basin",
+        "Margin":"Cuomo +52",
+        "Mamdani":"17%",
+        "Cuomo":"70%",
+        "Total votes":"4,107"
+    },
+    {
+        "Neighborhood":"Port Richmond",
+        "Margin":"Mamdani +7",
+        "Mamdani":"46%",
+        "Cuomo":"38%",
+        "Total votes":"4,096"
+    },
+    {
+        "Neighborhood":"Castleton Corners",
+        "Margin":"Cuomo +30",
+        "Mamdani":"22%",
+        "Cuomo":"54%",
+        "Total votes":"4,069"
+    },
+    {
+        "Neighborhood":"Glen Oaks",
+        "Margin":"Cuomo +39",
+        "Mamdani":"25%",
+        "Cuomo":"64%",
+        "Total votes":"4,029"
+    },
+    {
+        "Neighborhood":"Graniteville",
+        "Margin":"Cuomo +13",
+        "Mamdani":"33%",
+        "Cuomo":"46%",
+        "Total votes":"3,899"
+    },
+    {
+        "Neighborhood":"Concord",
+        "Margin":"Cuomo +18",
+        "Mamdani":"33%",
+        "Cuomo":"51%",
+        "Total votes":"3,869"
+    },
+    {
+        "Neighborhood":"Morrisania",
+        "Margin":"Mamdani +17",
+        "Mamdani":"56%",
+        "Cuomo":"39%",
+        "Total votes":"3,793"
+    },
+    {
+        "Neighborhood":"Jamaica Estates",
+        "Margin":"Cuomo +5",
+        "Mamdani":"45%",
+        "Cuomo":"50%",
+        "Total votes":"3,762"
+    },
+    {
+        "Neighborhood":"Belmont",
+        "Margin":"Mamdani +17",
+        "Mamdani":"55%",
+        "Cuomo":"38%",
+        "Total votes":"3,727"
+    },
+    {
+        "Neighborhood":"Rosebank",
+        "Margin":"Cuomo +10",
+        "Mamdani":"35%",
+        "Cuomo":"46%",
+        "Total votes":"3,695"
+    },
+    {
+        "Neighborhood":"Pelham Gardens",
+        "Margin":"Mamdani +1.7",
+        "Mamdani":"44%",
+        "Cuomo":"42%",
+        "Total votes":"3,681"
+    },
+    {
+        "Neighborhood":"Chinatown (Manhattan)",
+        "Margin":"Mamdani +12",
+        "Mamdani":"53%",
+        "Cuomo":"41%",
+        "Total votes":"3,627"
+    },
+    {
+        "Neighborhood":"Arrochar",
+        "Margin":"Cuomo +29",
+        "Mamdani":"25%",
+        "Cuomo":"54%",
+        "Total votes":"3,620"
+    },
+    {
+        "Neighborhood":"Crotona Park East",
+        "Margin":"Mamdani +11",
+        "Mamdani":"52%",
+        "Cuomo":"41%",
+        "Total votes":"3,537"
+    },
+    {
+        "Neighborhood":"Prince's Bay",
+        "Margin":"Cuomo +44",
+        "Mamdani":"11%",
+        "Cuomo":"66%",
+        "Total votes":"3,525"
+    },
+    {
+        "Neighborhood":"Rossville",
+        "Margin":"Cuomo +36",
+        "Mamdani":"11%",
+        "Cuomo":"62%",
+        "Total votes":"3,472"
+    },
+    {
+        "Neighborhood":"North Riverdale",
+        "Margin":"Mamdani +2",
+        "Mamdani":"47%",
+        "Cuomo":"44%",
+        "Total votes":"3,433"
+    },
+    {
+        "Neighborhood":"Jamaica Hills",
+        "Margin":"Mamdani +54",
+        "Mamdani":"74%",
+        "Cuomo":"21%",
+        "Total votes":"3,425"
+    },
+    {
+        "Neighborhood":"New Dorp",
+        "Margin":"Cuomo +32",
+        "Mamdani":"18%",
+        "Cuomo":"57%",
+        "Total votes":"3,228"
+    },
+    {
+        "Neighborhood":"Woodrow",
+        "Margin":"Cuomo +42",
+        "Mamdani":"9%",
+        "Cuomo":"67%",
+        "Total votes":"3,122"
+    },
+    {
+        "Neighborhood":"Arverne",
+        "Margin":"Mamdani +16",
+        "Mamdani":"53%",
+        "Cuomo":"37%",
+        "Total votes":"3,067"
+    },
+    {
+        "Neighborhood":"Oakwood",
+        "Margin":"Cuomo +35",
+        "Mamdani":"14%",
+        "Cuomo":"60%",
+        "Total votes":"3,063"
+    },
+    {
+        "Neighborhood":"Gerritsen Beach",
+        "Margin":"Cuomo +24",
+        "Mamdani":"16%",
+        "Cuomo":"53%",
+        "Total votes":"2,956"
+    },
+    {
+        "Neighborhood":"Edenwald",
+        "Margin":"Mamdani +12",
+        "Mamdani":"54%",
+        "Cuomo":"42%",
+        "Total votes":"2,880"
+    },
+    {
+        "Neighborhood":"Westchester Square",
+        "Margin":"Mamdani +40",
+        "Mamdani":"67%",
+        "Cuomo":"27%",
+        "Total votes":"2,874"
+    },
+    {
+        "Neighborhood":"Floral Park",
+        "Margin":"Mamdani +8",
+        "Mamdani":"46%",
+        "Cuomo":"39%",
+        "Total votes":"2,867"
+    },
+    {
+        "Neighborhood":"Greenwood Heights",
+        "Margin":"Mamdani +66",
+        "Mamdani":"81%",
+        "Cuomo":"15%",
+        "Total votes":"2,851"
+    },
+    {
+        "Neighborhood":"Auburndale",
+        "Margin":"Cuomo +27",
+        "Mamdani":"30%",
+        "Cuomo":"57%",
+        "Total votes":"2,845"
+    },
+    {
+        "Neighborhood":"St. George",
+        "Margin":"Mamdani +24",
+        "Mamdani":"58%",
+        "Cuomo":"34%",
+        "Total votes":"2,827"
+    },
+    {
+        "Neighborhood":"Annadale",
+        "Margin":"Cuomo +36",
+        "Mamdani":"11%",
+        "Cuomo":"63%",
+        "Total votes":"2,815"
+    },
+    {
+        "Neighborhood":"South Slope",
+        "Margin":"Mamdani +62",
+        "Mamdani":"80%",
+        "Cuomo":"17%",
+        "Total votes":"2,788"
+    },
+    {
+        "Neighborhood":"Bergen Beach",
+        "Margin":"Cuomo +38",
+        "Mamdani":"24%",
+        "Cuomo":"62%",
+        "Total votes":"2,694"
+    },
+    {
+        "Neighborhood":"Woodlawn",
+        "Margin":"Cuomo +0.45",
+        "Mamdani":"42%",
+        "Cuomo":"42%",
+        "Total votes":"2,643"
+    },
+    {
+        "Neighborhood":"Richmondtown",
+        "Margin":"Cuomo +41",
+        "Mamdani":"11%",
+        "Cuomo":"65%",
+        "Total votes":"2,638"
+    },
+    {
+        "Neighborhood":"Baychester",
+        "Margin":"Mamdani +14",
+        "Mamdani":"54%",
+        "Cuomo":"40%",
+        "Total votes":"2,589"
+    },
+    {
+        "Neighborhood":"East Tremont",
+        "Margin":"Mamdani +16",
+        "Mamdani":"55%",
+        "Cuomo":"39%",
+        "Total votes":"2,577"
+    },
+    {
+        "Neighborhood":"Breezy Point",
+        "Margin":"Cuomo +24",
+        "Mamdani":"7%",
+        "Cuomo":"58%",
+        "Total votes":"2,548"
+    },
+    {
+        "Neighborhood":"Dumbo",
+        "Margin":"Mamdani +15",
+        "Mamdani":"56%",
+        "Cuomo":"42%",
+        "Total votes":"2,529"
+    },
+    {
+        "Neighborhood":"Douglaston",
+        "Margin":"Cuomo +35",
+        "Mamdani":"26%",
+        "Cuomo":"62%",
+        "Total votes":"2,463"
+    },
+    {
+        "Neighborhood":"Hollis Hills",
+        "Margin":"Cuomo +44",
+        "Mamdani":"23%",
+        "Cuomo":"67%",
+        "Total votes":"2,425"
+    },
+    {
+        "Neighborhood":"Red Hook",
+        "Margin":"Mamdani +40",
+        "Mamdani":"68%",
+        "Cuomo":"28%",
+        "Total votes":"2,332"
+    },
+    {
+        "Neighborhood":"Willowbrook",
+        "Margin":"Cuomo +53",
+        "Mamdani":"16%",
+        "Cuomo":"69%",
+        "Total votes":"2,301"
+    },
+    {
+        "Neighborhood":"Roosevelt Island",
+        "Margin":"Mamdani +27",
+        "Mamdani":"61%",
+        "Cuomo":"33%",
+        "Total votes":"2,292"
+    },
+    {
+        "Neighborhood":"South Beach",
+        "Margin":"Cuomo +30",
+        "Mamdani":"22%",
+        "Cuomo":"54%",
+        "Total votes":"2,259"
+    },
+    {
+        "Neighborhood":"West Farms",
+        "Margin":"Mamdani +6",
+        "Mamdani":"50%",
+        "Cuomo":"44%",
+        "Total votes":"2,219"
+    },
+    {
+        "Neighborhood":"Stapleton",
+        "Margin":"Mamdani +23",
+        "Mamdani":"56%",
+        "Cuomo":"33%",
+        "Total votes":"2,213"
+    },
+    {
+        "Neighborhood":"West Harlem",
+        "Margin":"Mamdani +32",
+        "Mamdani":"64%",
+        "Cuomo":"32%",
+        "Total votes":"2,177"
+    },
+    {
+        "Neighborhood":"Todt Hill",
+        "Margin":"Cuomo +53",
+        "Mamdani":"16%",
+        "Cuomo":"69%",
+        "Total votes":"2,160"
+    },
+    {
+        "Neighborhood":"Grymes Hill",
+        "Margin":"Cuomo +8",
+        "Mamdani":"37%",
+        "Cuomo":"46%",
+        "Total votes":"2,158"
+    },
+    {
+        "Neighborhood":"Van Nest",
+        "Margin":"Mamdani +27",
+        "Mamdani":"58%",
+        "Cuomo":"31%",
+        "Total votes":"2,157"
+    },
+    {
+        "Neighborhood":"Rockaway Park",
+        "Margin":"Cuomo +18",
+        "Mamdani":"28%",
+        "Cuomo":"45%",
+        "Total votes":"2,141"
+    },
+    {
+        "Neighborhood":"Hudson Yards",
+        "Margin":"Mamdani +22",
+        "Mamdani":"58%",
+        "Cuomo":"36%",
+        "Total votes":"2,130"
+    },
+    {
+        "Neighborhood":"Grant City",
+        "Margin":"Cuomo +34",
+        "Mamdani":"19%",
+        "Cuomo":"58%",
+        "Total votes":"2,063"
+    },
+    {
+        "Neighborhood":"Midland Beach",
+        "Margin":"Cuomo +35",
+        "Mamdani":"21%",
+        "Cuomo":"57%",
+        "Total votes":"2,048"
+    },
+    {
+        "Neighborhood":"Claremont Village",
+        "Margin":"Mamdani +21",
+        "Mamdani":"59%",
+        "Cuomo":"37%",
+        "Total votes":"2,037"
+    },
+    {
+        "Neighborhood":"Clason Point",
+        "Margin":"Mamdani +8",
+        "Mamdani":"50%",
+        "Cuomo":"42%",
+        "Total votes":"1,981"
+    },
+    {
+        "Neighborhood":"Two Bridges",
+        "Margin":"Cuomo +0.51",
+        "Mamdani":"43%",
+        "Cuomo":"44%",
+        "Total votes":"1,957"
+    },
+    {
+        "Neighborhood":"NoMad",
+        "Margin":"Cuomo +19",
+        "Mamdani":"38%",
+        "Cuomo":"57%",
+        "Total votes":"1,944"
+    },
+    {
+        "Neighborhood":"Hillcrest",
+        "Margin":"Cuomo +37",
+        "Mamdani":"28%",
+        "Cuomo":"65%",
+        "Total votes":"1,897"
+    },
+    {
+        "Neighborhood":"Rockaway Beach",
+        "Margin":"Cuomo +6",
+        "Mamdani":"37%",
+        "Cuomo":"43%",
+        "Total votes":"1,866"
+    },
+    {
+        "Neighborhood":"Pleasant Plains",
+        "Margin":"Cuomo +35",
+        "Mamdani":"10%",
+        "Cuomo":"63%",
+        "Total votes":"1,800"
+    },
+    {
+        "Neighborhood":"Dongan Hills",
+        "Margin":"Cuomo +31",
+        "Mamdani":"24%",
+        "Cuomo":"55%",
+        "Total votes":"1,798"
+    },
+    {
+        "Neighborhood":"Country Club",
+        "Margin":"Cuomo +23",
+        "Mamdani":"20%",
+        "Cuomo":"51%",
+        "Total votes":"1,718"
+    },
+    {
+        "Neighborhood":"City Island",
+        "Margin":"Cuomo +18",
+        "Mamdani":"30%",
+        "Cuomo":"49%",
+        "Total votes":"1,687"
+    },
+    {
+        "Neighborhood":"Columbia St. Waterfront District",
+        "Margin":"Mamdani +46",
+        "Mamdani":"71%",
+        "Cuomo":"25%",
+        "Total votes":"1,674"
+    },
+    {
+        "Neighborhood":"Bayswater",
+        "Margin":"Cuomo +36",
+        "Mamdani":"30%",
+        "Cuomo":"65%",
+        "Total votes":"1,670"
+    },
+    {
+        "Neighborhood":"New Brighton",
+        "Margin":"Cuomo +2",
+        "Mamdani":"41%",
+        "Cuomo":"43%",
+        "Total votes":"1,655"
+    },
+    {
+        "Neighborhood":"Bay Terrace (Staten Island)",
+        "Margin":"Cuomo +36",
+        "Mamdani":"15%",
+        "Cuomo":"60%",
+        "Total votes":"1,652"
+    },
+    {
+        "Neighborhood":"Holliswood",
+        "Margin":"Cuomo +6",
+        "Mamdani":"44%",
+        "Cuomo":"50%",
+        "Total votes":"1,580"
+    },
+    {
+        "Neighborhood":"Ocean Hill",
+        "Margin":"Mamdani +54",
+        "Mamdani":"76%",
+        "Cuomo":"21%",
+        "Total votes":"1,526"
+    },
+    {
+        "Neighborhood":"Manhattan Beach",
+        "Margin":"Cuomo +81",
+        "Mamdani":"6%",
+        "Cuomo":"87%",
+        "Total votes":"1,499"
+    },
+    {
+        "Neighborhood":"New Dorp Beach",
+        "Margin":"Cuomo +26",
+        "Mamdani":"20%",
+        "Cuomo":"53%",
+        "Total votes":"1,453"
+    },
+    {
+        "Neighborhood":"South Richmond Hill",
+        "Margin":"Mamdani +21",
+        "Mamdani":"56%",
+        "Cuomo":"35%",
+        "Total votes":"1,397"
+    },
+    {
+        "Neighborhood":"Lighthouse Hill",
+        "Margin":"Cuomo +43",
+        "Mamdani":"13%",
+        "Cuomo":"65%",
+        "Total votes":"1,368"
+    },
+    {
+        "Neighborhood":"Edgemere",
+        "Margin":"Mamdani +20",
+        "Mamdani":"57%",
+        "Cuomo":"38%",
+        "Total votes":"1,327"
+    },
+    {
+        "Neighborhood":"Tompkinsville",
+        "Margin":"Mamdani +27",
+        "Mamdani":"58%",
+        "Cuomo":"31%",
+        "Total votes":"1,314"
+    },
+    {
+        "Neighborhood":"Hunts Point",
+        "Margin":"Mamdani +10",
+        "Mamdani":"52%",
+        "Cuomo":"42%",
+        "Total votes":"1,257"
+    },
+    {
+        "Neighborhood":"Marble Hill",
+        "Margin":"Mamdani +18",
+        "Mamdani":"56%",
+        "Cuomo":"38%",
+        "Total votes":"1,247"
+    },
+    {
+        "Neighborhood":"Sea Gate",
+        "Margin":"Cuomo +47",
+        "Mamdani":"18%",
+        "Cuomo":"65%",
+        "Total votes":"1,157"
+    },
+    {
+        "Neighborhood":"Broad Channel",
+        "Margin":"Cuomo +16",
+        "Mamdani":"12%",
+        "Cuomo":"52%",
+        "Total votes":"1,043"
+    },
+    {
+        "Neighborhood":"Silver Lake",
+        "Margin":"Cuomo +17",
+        "Mamdani":"33%",
+        "Cuomo":"50%",
+        "Total votes":"1,039"
+    },
+    {
+        "Neighborhood":"NoLIta",
+        "Margin":"Mamdani +16",
+        "Mamdani":"55%",
+        "Cuomo":"39%",
+        "Total votes":"978"
+    },
+    {
+        "Neighborhood":"NoHo",
+        "Margin":"Cuomo +6",
+        "Mamdani":"46%",
+        "Cuomo":"52%",
+        "Total votes":"976"
+    },
+    {
+        "Neighborhood":"Bronx Park East",
+        "Margin":"Mamdani +31",
+        "Mamdani":"63%",
+        "Cuomo":"32%",
+        "Total votes":"932"
+    },
+    {
+        "Neighborhood":"Fort Wadsworth",
+        "Margin":"Cuomo +11",
+        "Mamdani":"33%",
+        "Cuomo":"44%",
+        "Total votes":"855"
+    },
+    {
+        "Neighborhood":"Vinegar Hill",
+        "Margin":"Mamdani +41",
+        "Mamdani":"69%",
+        "Cuomo":"27%",
+        "Total votes":"822"
+    },
+    {
+        "Neighborhood":"Randall Manor",
+        "Margin":"Mamdani +15",
+        "Mamdani":"51%",
+        "Cuomo":"36%",
+        "Total votes":"444"
+    }
+]

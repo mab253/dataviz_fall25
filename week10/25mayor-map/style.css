@@ -1,0 +1,46 @@
+/*
+
+CSS = cascading style sheets
+a set of rules for the style of your document!
+
+*/
+
+
+body {
+  background-color: #dbdbdb;
+  color: Black;
+  font-family: 'Courier New', sans-serif;
+}
+
+h1 {
+  font-weight: 100;
+}
+
+p {
+  color: Black;
+}
+
+/*what do you think this line styles?*/
+.leaflet-popup-content p {
+  margin-bottom: 3px !important;
+  margin-top: 3px !important;
+}
+
+/*styling JUST the div with id=map*/
+/*using the # to call the id*/
+div#map {
+  height: 80vh; /*vh = % of height of the viewport, or page*/
+  width: 100%;
+  border: 1px solid Green;
+  border-radius: 12px;
+}
+
+div#legend {
+  background-color: White;
+  padding: 8px 20px;
+  border-radius: 12px;
+}
+
+
+
+
