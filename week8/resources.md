@@ -1,20 +1,18 @@
 ### 🖥️ lab link:
-- [trinket.io 🌎 MAP starter project](https://trinket.io/html/32a7499fda5c) - click here!
-  - log-in (you should have an account, or start a free one if you need) 
-  - click "remix" button, upper right to get your own editable copy of the project
-
-### 🤖 resources for leaflet:
-- [Leaflet basemap providers](http://leaflet-extras.github.io/leaflet-providers/preview/index.html)
-- [Leaflet documentation + tutorials](https://leafletjs.com/), simple + advanced examples with code
-- [Great Squirrel Census!](https://www.thesquirrelcensus.com/), data used in lab - also [NYC Open Data](https://opendata.cityofnewyork.us/)
+- [completed trinket.io d3 lab](https://trinket.io/html/a12b19439157), for reference
+- [trinket.io starter project](https://trinket.io/html/77c6ad43ebbe) - click here!
+  - once you have an account, click "remix" button, upper right
+  
+### 🤖 resources for d3:
+- [d3 Graph Gallery](https://d3-graph-gallery.com/), great resource w/code examples
+- [Observable d3 Gallery](https://observablehq.com/@d3/gallery?utm_source=d3js-org&utm_medium=nav&utm_campaign=try-observable), more advanced examples with code
+- [Mike Bostock](https://bost.ocks.org/mike/), one of the creators of D3, tutorials/examples
+- [d3 official documentation](https://d3js.org/getting-started)
 - [codecademy Javascript](https://www.codecademy.com/learn/introduction-to-javascript), beginner friendly free course
-- see JS/d3 resources from Week 7 as well
+- [Eloquent Javascript](https://eloquentjavascript.net/), assumes some programming knowledge, thorough + lovely full free book
 
-### 🗺️ resources for maps generally:
-- [Mapbox examples](https://docs.mapbox.com/mapbox-gl-js/example/), another JS library/API, not open source but very powerful
-- [Strange Maps](https://bigthink.com/strange-maps/), Frank Jacobs, blog w/great examples
-- [geojson.io](https://geojson.io), tool we used in class, great for creating datasets via hand-drawing on maps
-
-
-
+### 📊 on interactivity and the web:
+- [Web Zine](https://coolguy.website/web-zine/01/), on HTML, Zach Mandeville
+- [Laurel Schwulst, _Very Interactive_](https://veryinteractive.net/tutorials/index.html), HTML/CSS tutorials - check out videos
+- [From Data to Viz](https://www.data-to-viz.com/) - an interactive chart of charts! shows Python + d3 together for each type
 
