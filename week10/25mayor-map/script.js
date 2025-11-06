@@ -119,6 +119,9 @@ function getColor(d) {
   let colorScale = d3.scaleSequential(d3.interpolateCividis).domain([7, 60]);
   return colorScale(d);
 }
+// more documentation on d3 color sequences: 
+// https://d3js.org/d3-scale-chromatic/sequential
+// you'll recognize some names from seaborn!
 
 // add a custom legend control
 const legend = L.control({ position: "bottomright" });
