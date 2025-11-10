@@ -168,7 +168,7 @@ All work for this class will be lab, project, and presentation-based, and there 
 **Readings due today:**
 - ["Mission Control: A History of The Urban Dashboard"](https://placesjournal.org/article/mission-control-a-history-of-the-urban-dashboard/), Mattern in _Places Journal_
 - ["What would feminist data visualization look like?"](https://civic.mit.edu/feminist-data-visualization), D'Ignazio
-- [Data Humanism](http://giorgialupi.com/data-humanism-my-manifesto-for-a-new-data-wold), Lupi; participatory design (TBD)
+- [Data Humanism](http://giorgialupi.com/data-humanism-my-manifesto-for-a-new-data-wold), Lupi
 
 
 ---
