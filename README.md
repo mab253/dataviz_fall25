@@ -177,8 +177,9 @@ All work for this class will be lab, project, and presentation-based, and there 
 *Introduction to Modeling*
 
 **Readings due today:**
-- TBD
-- ["Missing Datasets"](https://github.com/MimiOnuoha/missing-datasets) and ["The Point of Collection"](https://medium.com/datasociety-points/the-point-of-collection-8ee44ad7c2fa) Mimi Onuoha
+- ["Introduction to Agent-Based Modeling"](https://www.youtube.com/watch?v=TfzZxJ46-z8), Sante Fe Institute (watch first)
+- ["Sante Fe on Fire: Agent-Based Modeling of Wildfire Evacuation Dynamics"](https://github.com/mab253/dataviz_fall25/blob/main/week12/SANTA_FE_ON_FIRE_AGENT-BASED_MODELING_OF_WILDFIRE_.pdf) Thorp, Guerin, et. al 
+- ["Agent-Based Modeling, Intro from Uri Wilensky"](https://www.youtube.com/watch?v=ocp3OdOvrZM), Sante Fe Institute 
 
 ---
 
