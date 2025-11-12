@@ -1,0 +1,111 @@
+# 🤖🗺️📈 final assignment
+
+For this assignment, you will work with a team to research, analyze, develop, refine, and produce **web-based data visualizations**, going through the entire life cycle of [computational information design](https://benfry.com/phd/dissertation/5.html).
+
+### 🤸‍♀️ #1: form teams
+
+- **Use your week Nov. 12th-19th** to form teams as a class, preferably 2-4 people.
+- I recommend using Discord (publicly! it will help to see what others are thinking, let's talk as a class) to share what data domains you are interested in, possible datasets you might want to work with, and your strengths or what you might need support with from a team.
+- Your chosen team list, a short description of the data and what you will explore, and a link to at least 1 possible dataset are due by **Nov. 19th before class**, via a Discord post in `#general` channel. Only 1 submission necesary per team! This can be _instead_ of the found visualization post that week.
+- If you would like me to match you to a team, please send me an e-mail before Nov. 19th.
+
+### 📑 #2: collaborative data work!
+
+- Go through a brief research phase as you explore the data domain and your dataset attributes. What context do you need to learn to understand the data? What key research questions might you focus on?
+- Conduct exploratory data analysis - I suggest Python and `pandas`, but you are welcome to use any tool.
+- Perform any data transformation that your project requires.
+- Find a **story** (or, multiple stories!) in the data. What do you want to communicate in your final visualizations?
+
+### 📀 #3: deliverables
+
+Every team will be responsible for:
+- Presentation, 7-10 minutes, showing work-in-progress, including telling the story of your domain and any research questions, and giving the class a look into your process and analysis. Include a slide deck of visuals, on **Dec. 10th** in-class.
+- Online-accessible, interactive version of your project, **due Dec. 17th** by 11:59pm
+- Methodology section included as Markdown file (`README.md`), **due Dec. 17th** by 11:59pm
+- Final project written report, 1000-1200 words, [(see below)](#📄-writings:-methodology-and-report), **due Dec. 17th** by 11:59pm
+- Any supporting code (Jupyter notebook for Pandas, for example), with comments, **due Dec. 17th** by 11:59pm
+
+Every person will be responsible for:
+- A short (min. 500 word) personal reflection on how the division of labor went for your team; how you personally showed up for the project work; and how you synthesized what you have learned in this class.
+
+SOME SUGGESTIONS ON PROCESS:
+- some class time will be dedicated to teamwork on Dec. 3rd, but this project also assumes significant work outside of class for the rest of the semester. I recommend using Discord, Google Colab, [JS Fiddle](https://jsfiddle.net/), and Zoom to collaborate, and to meet in-person if you can!
+- ask for help! Please use the Discord to: post code that confuses you, request help debugging, ask for feedback on any drafts, etc. - from me or your classmates
+- do create rough drafts - I recommend sketching by hand if that helps you, or use simple tools before your complex visualizations. If making a map, for example, you could try a draft in [Felt](https://felt.com/) before you work in code.
+- you may delegate and divide the labor among your team members, but your final project needs to come together cohesively as 1 complete whole
+- you may (and are encouraged to!) find outside sources to help with code, new libraries, online examples, etc. When you use these, **💥 remember to [cite your sources](https://github.com/mab253/dataviz_fall25/blob/main/ai-citations.md)!**
+- document your process as you go; it will be helpful for your reflection and your final report
+
+SOME THOUGHTS ON SCOPE & EXAMPLES:
+- The goal here is to push beyond the defaults in all the platforms that we've learned to create something **original, beautiful, and full of useful information.**
+- The work and final visualization(s) should be more intensive than your mid-term mini project, as you have more time and team members at your disposal. How deeply can you dive into the data? How many drafts and exploratory visuals might you need? What new techniques or libraries might you need to learn?  How polished and user-friendly can the final viz be?
+- Ideally, this project could go in your professional portfolios!
+- The best scope here is a bit of a _stretch_, something you might not quite know how to make right now, but with help and 1 month you could design and build.
+
+The project is open-ended for a reason - let your curiosity be your guide, and your final work should be unique rather than a copy of any of the following examples!
+
+if you make 1 complex, interactive custom visualization:
+- a map, for example, could have area + points + pop-ups, multiple layers, or a scrolling story map - you could use your Leaflet skills or try [Mapbox](https://docs.mapbox.com/mapbox-gl-js/example/)
+- for example: [Mapping Stop and Frisk, NYC](https://docs.mapbox.com/mapbox-gl-js/example/), NYT
+- for example: [AAPI Census Data](https://ucla-center-for-neighborhood-knowledge.github.io/hub-census-map/), Movement Hub
+- for example: [Shipmap!](https://www.shipmap.org/)
+- for example: [2020 Election Results Map](https://www.nytimes.com/interactive/2021/upshot/2020-election-map.html), NYT
+
+if you make multiple simple charts:
+- 💥 YOU MAY USE Plotly to export HTML/CSS/JS from Python, but these charts need to be interactive and combined in a single portal hosted online
+- they should be at least 3 different kinds of charts - you are not limited to bar, line, scatter! This chart type list could get you thinking: [d3](https://d3-graph-gallery.com/), [Python](https://python-graph-gallery.com/)
+- for example: "[The New Geography of the Russian Elite](https://www.nytimes.com/interactive/2022/06/17/world/europe/russia-private-jets.html)", NYT
+- for example: "[Uber Data Dash](https://dash.gallery/dash-uber-rides-demo/)", Plotly example 
+- for example: "[US Opioid Data](https://dash.gallery/dash-opioid-epidemic/)", Plotly example - more good [dashboard examples](https://dash.gallery/Portal/) here
+- for example: "[Lionel Messi is Impossible](https://fivethirtyeight.com/features/lionel-messi-is-impossible/)", 538 
+- for example: ["Tracking the Global Outbreak](https://www.nytimes.com/interactive/2021/world/covid-cases.html), NYT Covid data + map
+
+maybe you make a network graph:
+- for example: [Six Degrees of Francis Bacon](http://sixdegreesoffrancisbacon.com)
+- for example: [Characters in Love, Actually](https://dgrtwo.shinyapps.io/love-actually-network/)
+
+maybe you make a complex hand-drawn based visualization, (I am open to this! - with online documentation)
+- for example: "[Bats and the Origins of Outbreaks](https://www.reuters.com/graphics/HEALTH-CORONAVIRUS/BATS/qzjpqglbxpx/)"
+- for example: "[Dear Data](http://www.dear-data.com/theproject)"
+
+maybe you make a custom interactive graphic, entirely unique in form! I am open to this too. Describe your idea when you turn in your initial team proposal and we'll talk!
+
+## 🔎 evaluation criteria
+
+Your work will be evaluated based on your analysis process, final visualizations, and your report. In general I am looking for:
+  - Relevant data transformation in pandas or other methods, documented
+  - Breadth and depth of exploratory analysis, documented
+  - Clear explanation of your process in your methodology, and your choices in your report
+  - Expressive and effective visualizations, solid design choices based on what we've learned (color, shape, interactivity, information density/placement, etc.)
+  - Complexity: final visualizations should both tackle complexity, and present complex information in an inviting way ("rewards study", Tufte)
+  - Final visualizations are polished, presented cleanly for the user, clearly labelled and documented, and they can "stand alone" and tell a story
+
+Grading:
+  - Proposal complete & on-time (5%)
+  - Presentation (15%)
+  - Report + Documentation (30%)
+  - Final Visualization(s) (50%)
+
+## 📄 writings: methodology and report
+
+For the methodology section:
+- Include a `README.md` (md=Markdown) file in the final project to create a "Methodology" portion of your project
+- Markdown is a language like HTML - you can pick up some pointers [here!](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- Write, in paragraph form, an overview of your domain and dataset; some background on what you know about the origin of the data; any data transformation/processing that your group did on the dataset; and an introduction to your audience on how to "read" and "use" the visualization.
+- You can check out the [Ukko wind map](https://project-ukko.net/more-info.html) or the [Unlock NYC](https://weunlock.nyc/data/soi-map/) "About this Map" sections as examples. Yours does not need to be quite as extensive, but these examples should provide direction. Think of this as front-end, public-facing key information - what do you need your users to know? What do you need them to know about your process? What are the inherent limits of your conclusions?
+
+For the report: (1000-1200 words)
+- Include the following sections:
+    - Abstract: 1 paragraph summary. What are your key questions, key outputs and design choices, and key findings from creating your visualization? (feel free to repeat language from your Methodology)
+    - Data domain background (feel free to repeat language from your Methodology)
+    - Project process - tell the "story" of your group's work, _explaining key design decisions_. Why does your visualization look and behave the way it does? Who is your audience and what have you made with them in mind?
+    - Limitations + extensions - how would your group improve or extend the project, given more time and resources? What questions remain?
+    - 1 static image embedded in the report (an export or a screenshot of your final viz)
+    - Save this as a PDF and include it as an attachment in your final upload.
+
+## ✉️ submit your work
+  - Earlier deadlines:
+      - team proposal: Nov. 19th (Discord post)
+      - presentation: in-class, Dec. 10th (last day!)
+  - Please submit your final work **by Dec. 17, 11:59pm.**
+
