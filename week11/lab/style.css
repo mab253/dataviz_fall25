@@ -1,0 +1,53 @@
+/*
+CSS = cascading style sheets
+a set of rules for the style of your document!
+*/
+
+body {
+  background-color: #202020;
+  color: White;
+  font-family: 'Courier New', sans-serif;
+}
+
+h1 {
+  font-weight: 100;
+}
+
+p {
+  color: White;
+}
+
+/*what do you think this line styles?*/
+.leaflet-popup-content p {
+  margin-bottom: 3px !important;
+  margin-top: 3px !important;
+}
+
+div#dashboard {
+  width: 100%;
+  display: grid;
+  padding: 50px;
+  grid-template-columns: 60% 40%;
+  box-sizing: border-box;
+}
+div.data-window {
+  width: 100%;
+  padding: 12px;
+  border: 1px dotted Yellow;
+  margin-bottom: 10px;
+  min-height: 600px;
+  box-sizing: border-box;
+  position: relative;
+}
+
+div.label {
+  font-size: 12px;
+}
+
+/* what happens because of the code below?
+RESPONSIVE DESIGN ... */
+@media only screen and (max-width: 900px) {
+  div#dashboard {
+    grid-template-columns: 100%;
+  }
+}
