@@ -184,22 +184,21 @@ All work for this class will be lab, project, and presentation-based, and there 
 ---
 
 **Week 13: Nov. 26** \
-*Visualizing Networks* 
+*Project Work Week* 
 
-**💥 class meets on Zoom! see link via Discord**
+**💥 no in-person or zoom class! see async assignment via Discord**
 
-**Readings due today:**
-- ["Learning from Lombardi"](https://medium.com/@ben_fry/learning-from-lombardi-a28032a7eb5), Fry
-- from[ _The Network Turn_](https://github.com/mab253/dataviz_fall23/blob/main/week10/the-network-turn-chapter.pdf), Ahnert, Coleman, Weingart; pp. 1-24, & pp. 57-61
+**Work this week:**
+- final projects
 
 ---
 
 **Week 14: Dec. 3** \
-*Visualizing Machine Learning*
+*Visualizing Networks*
 
 **Readings due today:**
-- ["A visual introduction to machine learning,"](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/), Part I & II, R2D3
-- TBD
+- ["Learning from Lombardi"](https://medium.com/@ben_fry/learning-from-lombardi-a28032a7eb5), Fry
+- from[ _The Network Turn_](https://github.com/mab253/dataviz_fall23/blob/main/week10/the-network-turn-chapter.pdf), Ahnert, Coleman, Weingart; pp. 1-24, & pp. 57-61
 
 ---
 
