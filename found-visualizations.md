@@ -71,20 +71,18 @@ Week 12: (Nov. 19)
 - Dennis C.
 - Fatima N.
 
-Week 13: (Nov. 26)
-- Cindy Z.
-- Hao Z.
-- Evan A.
-- Matin N.
-
 Week 14: (Dec. 3)
 - Anthony S.
 - Aida D.
 - Cindy Z.
 - Hao Z.
+- Evan A.
 
 Week 15: (Dec. 15)
+- Matin N.
+- Cindy Z.
 - Fatima N.
 - Ash K.
+- Hao Z.
 
 
